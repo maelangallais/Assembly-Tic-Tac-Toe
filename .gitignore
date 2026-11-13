@@ -1,0 +1,11 @@
+# Compiled objects and temporary files
+*.o
+*.obj
+*.out
+prog.exe
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
